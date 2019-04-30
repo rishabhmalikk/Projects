@@ -1,2 +1,2 @@
-# Knn
-Knn on Amazon Fine Food Reviews Dataset
+# Projects / Case Studies
+
