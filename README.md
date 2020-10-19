@@ -1,3 +1,3 @@
-# Projects / Case Studies
+# MachineLearning_Projects / Case Studies
 
-I've Completed These Projects/Case Studies as a part of my APPLIED AI COURSE
+I've Completed These Projects/Case Studies on Machine Learning as a part of my APPLIED AI COURSE 
